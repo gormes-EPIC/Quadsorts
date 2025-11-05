@@ -1,4 +1,4 @@
-# Lab 12 - QuadSorts
+# QuadSorts
 
 For this lab, you will create a class `QuadSorts` with four static methods.
     - `public static int[] bubbleSort(int[] arr)` - sorts an array _arr_ using bubble sort and returns the sorted array
